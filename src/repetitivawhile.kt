@@ -61,6 +61,7 @@ fun main(){
 }
 
  */
+/*
  fun main() {
     var mayoresOIgualesA7 = 0
     var menoresA7 = 0
@@ -151,7 +152,7 @@ fun main() {
         print("$numero ")
         numero += 8
     }
-    
+
  */
 }
 /*
@@ -219,3 +220,6 @@ fun main() {
  */
 
 
+
+
+ */
