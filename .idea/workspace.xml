@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95983188-63de-4940-aa1f-1d2836a21b44" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/repetitivawhile.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructurascondicionales.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/estructurascondicionales.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repetitivawhile.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/repetitivawhile.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
