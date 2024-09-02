@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95983188-63de-4940-aa1f-1d2836a21b44" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arrays/98.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructores/cientocatorce.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructores/cientotrece.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructores/constr1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructores/problema2pro.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nuevitopoo_llamadra/117.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colabdeclases/1191.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colabdeclases/juegodados.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colabdeclases/problema2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modificadores/122.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/98.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/98.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructores/cientocatorce.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructores/cientocatorce.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructores/cientotrece.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructores/cientotrece.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructores/constr1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructores/constr1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructores/problema2pro.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructores/problema2pro.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nuevitopoo_llamadra/117.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/nuevitopoo_llamadra/117.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +48,15 @@
     "Kotlin.Constr1Kt.executor": "Run",
     "Kotlin.EjeproKt.executor": "Run",
     "Kotlin.EstructurascondicionalesKt.executor": "Run",
+    "Kotlin.JuegodadosKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.Nue1Kt.executor": "Run",
+    "Kotlin.Problema2Kt.executor": "Run",
     "Kotlin.Problema2proKt.executor": "Run",
     "Kotlin.RepetitivawhileKt.executor": "Run",
     "Kotlin._110Kt.executor": "Run",
     "Kotlin._117Kt.executor": "Run",
+    "Kotlin._1191Kt.executor": "Run",
     "Kotlin._98Kt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
